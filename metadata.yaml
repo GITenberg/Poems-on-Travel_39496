@@ -1,0 +1,31 @@
+_repo: Poems-on-Travel_39496
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Leonard, R. M. (Robert Maynard)
+    aliases:
+    - Leonard, Robert Maynard
+    - Leonard, R. Maynard
+    gutenberg_agent_id: '43876'
+    url: http://www.gutenberg.org/2009/agents/43876
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39496'
+  lccn: '15010266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Poetry'
+- !lcsh 'Poetry of places'
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: Poems on Travel
+url: http://www.gutenberg.org/ebooks/39496
